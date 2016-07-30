@@ -16,7 +16,7 @@
     'data': [
         'views/sale_view.xml',
     ],
-    'license': 'OEEL-1',
+    'license': 'Other proprietary',
     'price': 0,
     'currency': 'EUR',
     'images': ['static/description/Openies_location_ship.png'],
