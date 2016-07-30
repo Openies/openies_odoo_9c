@@ -2,7 +2,6 @@
 
 ## Odoo Modules Developed By Openies Services
 
-----------
 ## Contact Openies for Odoo Services
 
 ##### Website : <a href='http://openies.com'>http://Openies.com</a>
